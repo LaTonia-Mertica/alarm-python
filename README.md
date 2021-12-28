@@ -10,8 +10,10 @@
 
 - to create a virtual environment run ```python3 -m venv alarm-clock``` ... for this project *alarm-clock* is the name of the main directory containing the project<br>
 <br>
+
 - to activate the virtual env run ```source alarm/bin/activate```<br>
 <br>
+
 - to install the module run ```pip install modulename``` ... for this project *alarm* without the .py is the *modulename* aka is the name of the python script w/o ending in .py
 <br>
 <br>
